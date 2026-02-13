@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="140" viewBox="0 0 600 140" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <path id="snakePath" d="M10 70 C100 10,200 130,300 70 S500 10,590 70" />
+    <linearGradient id="g1" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#6ebf4b"/>
+      <stop offset="100%" stop-color="#2f7a1a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- faint track -->
+  <path d="M10 70 C100 10,200 130,300 70 S500 10,590 70" fill="none" stroke="#cfe6c6" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- snake segments (three circles following the path) -->
+  <g>
+    <circle r="10" fill="url(#g1)" >
+      <animateMotion dur="3s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#snakePath" />
+      </animateMotion>
+    </circle>
+
+    <circle r="8" fill="#3e8b1e">
+      <animateMotion begin="0.18s" dur="3s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#snakePath" />
+      </animateMotion>
+    </circle>
+
+    <circle r="6" fill="#2b5b12">
+      <animateMotion begin="0.36s" dur="3s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#snakePath" />
+      </animateMotion>
+    </circle>
+  </g>
+
+  <!-- simple eye for the head -->
+  <g>
+    <circle r="2.2" cx="0" cy="0" fill="#fff">
+      <animateMotion dur="3s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#snakePath" />
+      </animateMotion>
+    </circle>
+  </g>
+
+  <!-- note: this file is intentionally lightweight so it displays in README previews -->
+</svg>

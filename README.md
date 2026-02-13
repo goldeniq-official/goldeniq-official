@@ -89,7 +89,7 @@
 </div>
 
 <p align="center"> © 2025 - 2026
-  <a href="https://www.goldeniq.xyz/" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://www.sungchhay.goldeniq.xyz" target="_blank" style="text-decoration: none; color: inherit;">
     @Chhit-Sungchhay
   </a>All Rights Reserved
 </p>
