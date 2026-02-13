@@ -70,13 +70,13 @@
   to further enhance my skills in building better web applications.
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goldeniq-official/goldeniq-official/main/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goldeniq-official/goldeniq-official/main/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/goldeniq-official/goldeniq-official/main/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goldeniq-official/goldeniq-official/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goldeniq-official/goldeniq-official/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/goldeniq-official/goldeniq-official/output/pacman-contribution-graph.svg">
+</picture>
 
 <br clear="both">
 
