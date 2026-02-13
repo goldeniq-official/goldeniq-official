@@ -80,7 +80,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/goldeniq-official/goldeniq-official/main/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/goldeniq-official/goldeniq-official/output/snake.svg" alt="Snake animation" />
 
 ###
 
