@@ -60,7 +60,7 @@
 <ul>
   <li>🎓 <b>Education:</b> Currently a Grade 12 Student (High School)</li>
   <li>🚀 <b>Personal Project:</b> Founder & Owner of <a href="https://www.goldeniq.xyz/">Golden IQ</a></li>
-  <li>🎮 <b>Current Work:</b> Staff at <b>MAZER-CLUB</b> (Minecraft Server)</li>
+  <li>🎮 <b>Current Work:</b> Staff at <a href="https://www.mazerclub.com">MAZER-CLUB</a> (Minecraft Server)</li>
   <li>📍 <b>Location:</b> Phnom Penh, Cambodia</li>
 </ul>
 
