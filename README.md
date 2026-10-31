@@ -3,9 +3,7 @@
 <div align="center">
   <img height="150" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/258483810?v=4" alt="Chhit Sungchhay Avatar" />
   
-  <h1>Golden-IQ</h1>
-  <h3>Chhit Sungchhay</h3>
-  <p><b>Information Technology Engineering Student @ RUPP | Full Stack & Systems Developer</b></p>
+  <h3>Golden-IQ<br>Name: Chhit Sungchhay</h3>
 
   <!-- Connect & Social Links -->
   <div>
@@ -128,11 +126,7 @@
 ### 📈 Activity & Contributions
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goldeniq-official/goldeniq-official/output/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goldeniq-official/goldeniq-official/output/snake.svg">
-    <img alt="Snake animation contribution graph" src="https://raw.githubusercontent.com/goldeniq-official/goldeniq-official/output/snake.svg" />
-  </picture>
+  <img alt="Snake animation contribution graph" src="./assets/snake.svg" width="100%" />
 </div>
 
 <br clear="both">
